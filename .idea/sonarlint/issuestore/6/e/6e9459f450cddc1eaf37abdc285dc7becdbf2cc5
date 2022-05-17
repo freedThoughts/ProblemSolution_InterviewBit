@@ -1,0 +1,6 @@
+
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(›¤‡¹8Õ¾»”Ù/
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¤‡¹8Õ¾»”Ù/
+Jsquid:S1264",Replace this "for" loop with a "while" loop.(³òå½8Õ¾»”Ù/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¤‡¹8Õ¾»”Ù/

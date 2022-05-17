@@ -1,0 +1,7 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€éÜþøÿÿÿÿ8æ´·–Ù/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+squid:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(¿Äßúþÿÿÿÿ8½Ìì•Ù/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ˆÕ‡ÿÿÿÿÿ8«¹–Ù/
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Äßúþÿÿÿÿ8½Ìì•Ù/
